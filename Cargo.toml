@@ -6,7 +6,7 @@ description = "TDLIB Json Client Rust FFI Bindings"
 documentation = "https://docs.rs/tdjson-sys"
 repository = "https://github.com/mersinvald/tdjson-sys"
 license = "MIT"
-keywords = ["telegram", "tdlib", "json", "bindings", "ffi", "unsafe"]
+keywords = ["telegram", "tdlib", "bindings", "ffi", "unsafe"]
 categories = ["external-ffi-bindings"]
 
 
