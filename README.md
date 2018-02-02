@@ -26,7 +26,7 @@ After installing `tdlib`, just add `tdjson-sys` to your crate's dependencies
 tdlib-sys = "0.1.0"
 ```
 
-And let the Cargo do it's magick!
+And let the Cargo do it's magic!
 ```bash
 cargo build
 ```
