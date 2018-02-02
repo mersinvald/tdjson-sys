@@ -1,9 +1,9 @@
 [package]
 name = "tdjson-sys"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Mike Lubinets <lubinetsm@yandex.ru>"]
 description = "TDLIB Json Client Rust FFI Bindings"
-documentation = "https://docs.rs/tdjson-sys"
+documentation = "https://docs.rs/crate/tdjson-sys"
 repository = "https://github.com/mersinvald/tdjson-sys"
 license = "MIT"
 keywords = ["telegram", "tdlib", "bindings", "ffi", "unsafe"]
