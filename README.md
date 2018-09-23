@@ -23,7 +23,7 @@ cmake --build . --target install
 After installing `tdlib`, just add `tdjson-sys` to your crate's dependencies
 
 ```toml
-tdjson-sys = "0.1.1"
+tdjson-sys = "0.1.3"
 ```
 
 And let the Cargo do it's magic!
