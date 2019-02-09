@@ -1,6 +1,6 @@
 [package]
 name = "tdjson-sys"
-version = "0.1.4"
+version = "0.1.5"
 authors = ["Mike Lubinets <lubinetsm@yandex.ru>"]
 description = "TDLIB Json Client Rust FFI Bindings"
 documentation = "https://docs.rs/crate/tdjson-sys"
